@@ -25,5 +25,8 @@ package-lock.json
 # ignore .astro directory
 .astro
 
+# typescript incremental build info
+*.tsbuildinfo
+
 .idea/
 .vscode/
